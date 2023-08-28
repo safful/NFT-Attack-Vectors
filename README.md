@@ -1,4 +1,4 @@
-# NFT-Attack-Vectors
+# NFT Attack Vectors
 
 The ERC-721 introduces a standard for NFT, in other words, this type of Token is unique and can have different value than another Token from the same Smart Contract, maybe due to its age, rarity or even something else. Read more about NFT [here](https://ethereum.org/en/nft/).
 
